@@ -31,8 +31,8 @@ Full-Stack Web Developer passionate about building scalable applications with mo
 ### 🌍 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Azarcodex-black?style=for-the-badge&logo=github)](https://github.com/Azarcodex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Azarin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![X](https://img.shields.io/badge/X-%40AzarCodex-000000?style=for-the-badge&logo=X)](https://x.com/your-x-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Azarin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-azarin-v-p-0571bb239/)
+[![X](https://img.shields.io/badge/X-%40AzarCodex-000000?style=for-the-badge&logo=X)](https://x.com/home)
 
 ---
 
