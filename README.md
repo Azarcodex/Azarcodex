@@ -1,60 +1,32 @@
 {
   "name": "Mohammed Azarin V P",
-  "role": "MERN Stack Developer",
-  "headline": "I build production-ready full-stack applications, not tutorial projects.",
-  
-  "about": {
-    "summary": "Full-stack web developer focused on scalable architecture, clean APIs, and real-world problem solving.",
-    "philosophy": "Code should be readable, maintainable, and deployed — not just written."
-  },
-
-  "tech_stack": {
-    "frontend": ["React", "JavaScript", "CSS", "Responsive UI"],
-    "backend": ["Node.js", "Express.js", "REST APIs"],
-    "databases": ["MongoDB", "PostgreSQL", "Firebase"],
-    "devops": ["Git", "CI/CD", "Docker", "Cloud Deployment"]
-  },
-
-  "what_i_build": [
-    "Scalable REST APIs",
-    "Full-stack MERN applications",
-    "Authentication & authorization systems",
-    "Payment gateway integrations",
-    "Multi-vendor & role-based platforms"
+  "skills": [
+    "Full-Stack Web Development",
+    "Backend Development",
+    "Frontend Development",
+    "API Design & Integration",
+    "Database Management",
+    "DevOps & CI/CD"
   ],
-
-  "current_focus": {
-    "system_design": "Learning how large-scale systems are architected and scaled",
-    "security": "Bug bounty fundamentals and real-world vulnerability hunting",
-    "cloud": ["AWS", "Google Cloud"]
-  },
-
+  "learning": [
+    "Advanced System Design",
+    "Bug Bounty Hunting",
+    "Cloud Computing (AWS, Google Cloud)"
+  ],
   "interests": [
-    "Microservices & backend architecture",
-    "Open-source contributions",
-    "Technical blogging & knowledge sharing",
-    "Startup engineering & entrepreneurship"
+    "Building scalable APIs",
+    "Solving complex problems with software",
+    "Exploring open-source contributions",
+    "Teaching & Technical Blogging",
+    "Entrepreneurship & Startups"
   ],
-
-  "work_style": {
-    "approach": "Understand the problem → design the solution → write clean code → deploy",
-    "values": ["Clarity", "Scalability", "Performance", "Security"]
-  },
-
-  "open_to": [
-    "Freelance projects",
-    "Backend-heavy MERN roles",
-    "Startup collaborations",
-    "Challenging engineering problems"
-  ],
-
-  "contact": {
-    "platform": "LinkedIn",
-    "message": "If you have a real problem to solve, let's talk."
+  "social": {
+    "github": "https://github.com/Azarcodex",
+    "linkedin": "https://www.linkedin.com/in/mohammed-azarin-v-p-0571bb239/",
+    "x": "https://x.com/AzarCodex"
   }
 }
 
----
 
 ### 🌍 Connect With Me
 
