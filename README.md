@@ -1,30 +1,58 @@
-# Mohammed Azarin V P
+{
+  "name": "Mohammed Azarin V P",
+  "role": "MERN Stack Developer",
+  "headline": "I build production-ready full-stack applications, not tutorial projects.",
+  
+  "about": {
+    "summary": "Full-stack web developer focused on scalable architecture, clean APIs, and real-world problem solving.",
+    "philosophy": "Code should be readable, maintainable, and deployed — not just written."
+  },
 
-## 🚀 I am a MERN Stack Developer
+  "tech_stack": {
+    "frontend": ["React", "JavaScript", "CSS", "Responsive UI"],
+    "backend": ["Node.js", "Express.js", "REST APIs"],
+    "databases": ["MongoDB", "PostgreSQL", "Firebase"],
+    "devops": ["Git", "CI/CD", "Docker", "Cloud Deployment"]
+  },
 
-Full-Stack Web Developer passionate about building scalable applications with modern technologies. I love solving complex problems and creating beautiful user experiences.
+  "what_i_build": [
+    "Scalable REST APIs",
+    "Full-stack MERN applications",
+    "Authentication & authorization systems",
+    "Payment gateway integrations",
+    "Multi-vendor & role-based platforms"
+  ],
 
----
+  "current_focus": {
+    "system_design": "Learning how large-scale systems are architected and scaled",
+    "security": "Bug bounty fundamentals and real-world vulnerability hunting",
+    "cloud": ["AWS", "Google Cloud"]
+  },
 
-### 💼 Skills & Expertise
-- ⭐ **Full-Stack Web Development** - End-to-end application development
-- 🔧 **Backend Development** - Node.js, Express, RESTful APIs
-- 🎨 **Frontend Development** - React, JavaScript, CSS, Responsive Design
-- 🔌 **API Design & Integration** - RESTful APIs, Payment Gateway Integration
-- 💾 **Database Management** - MongoDB, SQL, Firebase
-- 🚀 **DevOps & CI/CD** - Deployment, Automation, Version Control
+  "interests": [
+    "Microservices & backend architecture",
+    "Open-source contributions",
+    "Technical blogging & knowledge sharing",
+    "Startup engineering & entrepreneurship"
+  ],
 
-### 📚 Currently Learning
-- 🏗️ Advanced System Design
-- 🔐 Bug Bounty Hunting
-- ☁️ Cloud Computing (AWS, Google Cloud)
+  "work_style": {
+    "approach": "Understand the problem → design the solution → write clean code → deploy",
+    "values": ["Clarity", "Scalability", "Performance", "Security"]
+  },
 
-### 💡 Interests
-- 🔨 Building scalable APIs and microservices
-- 🧩 Solving complex problems with software
-- 🌐 Contributing to open-source projects
-- 📖 Teaching & Technical Blogging
-- 🚀 Entrepreneurship & Startups
+  "open_to": [
+    "Freelance projects",
+    "Backend-heavy MERN roles",
+    "Startup collaborations",
+    "Challenging engineering problems"
+  ],
+
+  "contact": {
+    "platform": "LinkedIn",
+    "message": "If you have a real problem to solve, let's talk."
+  }
+}
 
 ---
 
