@@ -8,7 +8,7 @@
   "result": {
     "name": "Mohammed Azarin V P",
     "role": "Software Engineer",
-    "specialization": ["Backend Architecture", "Scalable Systems","full stack],
+    "specialization": ["Backend Architecture", "Scalable Systems","full stack"],
     "current_mission": "Solving complex problems with software",
     "location": "India",
     "quote": "Code is poetry, debugging is the art of understanding the poet's mind."
