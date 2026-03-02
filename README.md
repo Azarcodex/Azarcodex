@@ -78,21 +78,6 @@ GET /api/v1/users/azarcodex → 200 OK
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=azarcodex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff3cac&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarcodex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azarcodex&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=ff3cac&fire=ff3cac&currStreakLabel=00d4ff" width="600"/>
-
-</div>
-
 ---
 
 ## 🌐 Connect with Me
